@@ -311,3 +311,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   plot: {fileID: 6788455308482891999, guid: 45257659e7ef484468748ee2eee2b5a0, type: 3}
   plot1: {fileID: 6788455308482891999, guid: 2b2a8ebc09a0c924cba772dbe3c5f9e8, type: 3}
+  plot2: {fileID: 6788455308482891999, guid: a59be6f87565aa342b893e65db87eacc, type: 3}

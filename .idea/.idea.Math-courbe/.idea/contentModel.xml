@@ -18,6 +18,17 @@
           <e p="CallDllFunctions.cs" t="Include" />
           <e p="Data.cs" t="Include" />
           <e p="Kobbelt.cs" t="Include" />
+          <e p="LoopSubdiv" t="Include">
+            <e p="Edge.cs" t="Include" />
+            <e p="GPUSubdivData.cs" t="Include" />
+            <e p="GPUSubdivisionSurface.cs" t="Include" />
+            <e p="Kernel.cs" t="Include" />
+            <e p="Model.cs" t="Include" />
+            <e p="SubdivisionSurface.cs" t="Include" />
+            <e p="Triangle.cs" t="Include" />
+            <e p="Vertex.cs" t="Include" />
+          </e>
+          <e p="LoopSubdivision.cs" t="Include" />
           <e p="MathData.cs" t="Include" />
           <e p="MathPlotRaycaster.cs" t="Include" />
           <e p="PlotData.cs" t="Include" />

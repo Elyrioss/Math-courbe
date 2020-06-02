@@ -62,6 +62,15 @@
     <Compile Include="Assets\Script\CallDllFunctions.cs" />
     <Compile Include="Assets\Script\Data.cs" />
     <Compile Include="Assets\Script\Kobbelt.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\Edge.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\GPUSubdivData.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\GPUSubdivisionSurface.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\Kernel.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\Model.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\SubdivisionSurface.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\Triangle.cs" />
+    <Compile Include="Assets\Script\LoopSubdiv\Vertex.cs" />
+    <Compile Include="Assets\Script\LoopSubdivision.cs" />
     <Compile Include="Assets\Script\MathData.cs" />
     <Compile Include="Assets\Script\MathPlotRaycaster.cs" />
     <Compile Include="Assets\Script\PlotData.cs" />

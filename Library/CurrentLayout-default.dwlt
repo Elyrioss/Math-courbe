@@ -309,13 +309,13 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.146589, y: 4.7555046, z: 21.355812}
+    m_Target: {x: -3.8988695, y: -0.5316701, z: 0.5722828}
     speed: 2
-    m_Value: {x: -2.146589, y: 4.7555046, z: 21.355812}
+    m_Value: {x: -3.8988695, y: -0.5316701, z: 0.5722828}
   m_RenderMode: 0
   m_CameraMode:
-    drawMode: 1
-    name: Wireframe
+    drawMode: 0
+    name: Shaded
     section: Shading Mode
   m_ValidateTrueMetals: 0
   m_DoValidateTrueMetals: 0
@@ -357,13 +357,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.045929905, y: -0.34202424, z: 0.01675538, w: 0.93842506}
+    m_Target: {x: 0.15118715, y: -0.37780136, z: 0.06269628, w: 0.9113133}
     speed: 2
-    m_Value: {x: 0.04590444, y: -0.3434294, z: 0.016824152, w: 0.93790513}
+    m_Value: {x: 0.1511861, y: -0.3777987, z: 0.06269584, w: 0.91130686}
   m_Size:
-    m_Target: 20.272375
+    m_Target: 22.74501
     speed: 2
-    m_Value: 21.227617
+    m_Value: 22.74501
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -468,34 +468,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Particules
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Particules
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Projet Unity\maths\Math-courbe
+  m_LastProjectPath: C:\Users\Esteban\Desktop\courbe\Math-courbe
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 24}
-    m_SelectedIDs: a2360000
-    m_LastClickedID: 13986
-    m_ExpandedIDs: 000000007a3600007c3600007e36000080360000823600008436000086360000883600008a3600008c360000a436000000ca9a3b
+    m_SelectedIDs: 84380000
+    m_LastClickedID: 14468
+    m_ExpandedIDs: 00000000683800006a3800006c3800006e38000070380000723800007438000076380000783800007a38000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14476
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -509,7 +509,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a3600007c3600007e36000080360000823600008436000086360000883600008a3600008c360000
+    m_ExpandedIDs: 00000000683800006a3800006c3800006e38000070380000723800007438000076380000783800007a380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009eb2000074a80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -602,7 +602,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 67
+  m_LastVerticalScrollValue: 0
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 28360000
-      m_LastClickedID: 13864
-      m_ExpandedIDs: 6efbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 76eaffff7eeaffffaaeaffffc0eaffff2ef3ffff36f3ffff04f4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

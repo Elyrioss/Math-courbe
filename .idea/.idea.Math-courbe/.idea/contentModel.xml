@@ -16,6 +16,9 @@
         </e>
         <e p="Script" t="Include">
           <e p="CallDllFunctions.cs" t="Include" />
+          <e p="Coon" t="Include">
+            <e p="TracePolygonalLine.cs" t="Include" />
+          </e>
           <e p="Data.cs" t="Include" />
           <e p="Kobbelt.cs" t="Include" />
           <e p="LoopSubdiv" t="Include">
